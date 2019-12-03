@@ -1,6 +1,6 @@
 # GitHub Tutorial
 
-_by <Ayden Rodriguez>_
+_by Ayden Rodriguez_
 
 ---
 ## Git vs. GitHub
