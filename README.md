@@ -124,7 +124,8 @@ git push -u origin master
 
 #### Git Pull
 * `git pull` is a command that brings changes from GitHub to cs50.
-* It's best to use this command after making changes on _github.com_
+* It's best to use this command after receiving a pull request from a collaborator at _github.com_ and merging that pull request to include the changes created by the collaborator.
+* After merging the pull request on _github.com_, you then use `git pull` in cs50 to take the changes from _github.com_ and implement them in the repository at cs50.
 
 #### Git Remote -v
 * `git remote -v` Tells you where your commits will be pushed to or pulled from.
